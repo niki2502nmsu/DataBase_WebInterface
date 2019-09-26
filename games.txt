@@ -1,0 +1,1000 @@
+1,'2017-11-19','Noveleta Stadium','T',33654,432469
+2,'2017-06-04','Houyu Stadium','W',20898,397277
+3,'2011-10-13','Öldziyt Stadium','L',44890,87087
+4,'2018-03-22','Montpellier Stadium','W',98410,681467
+5,'2014-12-08','Tong’an Stadium','L',51468,278971
+6,'2010-10-14','Créteil Stadium','L',21155,696387
+7,'2018-04-17','Paris 11 Stadium','L',84150,852026
+8,'2018-03-18','Chengdong Stadium','L',61384,250316
+9,'2011-02-13','Hamburg Stadium','L',80475,77190
+10,'2010-09-21','Bairan Stadium','W',48441,249195
+11,'2014-05-08','Guotan Stadium','T',1526,222981
+12,'2013-12-05','Leuwihalang Stadium','L',50922,226890
+13,'2014-11-10','Dunhao Stadium','L',43728,584983
+14,'2017-06-14','Vikbolandet Stadium','W',11883,362093
+15,'2018-07-02','Węgrzce Wielkie Stadium','W',65074,100880
+16,'2014-10-15','Vila Alva Stadium','T',18879,261461
+17,'2016-07-09','Türkmenbaşy Stadium','L',60552,396155
+18,'2011-02-28','Fuling Stadium','T',69146,745726
+19,'2018-04-15','Presidente Epitácio Stadium','W',27586,293693
+20,'2016-01-22','Shicheng Stadium','L',80263,563209
+21,'2016-02-28','Meia Via Stadium','L',29577,716733
+22,'2010-10-18','Siquirres Stadium','L',88177,764850
+23,'2014-08-16','Lycksele Stadium','L',90283,721649
+24,'2012-03-26','Tây Ninh Stadium','T',34434,26000
+25,'2018-01-29','Uherce Mineralne Stadium','L',93097,617977
+26,'2015-09-14','Sarkanjut Stadium','L',49844,313823
+27,'2014-06-03','Mancogeh Stadium','W',61566,539922
+28,'2017-03-30','Baoshan Stadium','W',4932,164039
+29,'2016-04-01','Porvenir Stadium','T',10241,372090
+30,'2010-09-07','Lagunillas Stadium','W',84738,862749
+31,'2015-04-30','Nawu Stadium','W',15075,437798
+32,'2010-08-29','Kungälv Stadium','L',92339,382971
+33,'2015-09-13','Canavieiras Stadium','T',80694,666571
+34,'2015-09-17','Gondar Stadium','T',11723,258744
+35,'2017-01-16','Zhalinghu Stadium','T',75709,232645
+36,'2010-09-17','Sugihmukti Stadium','W',85958,879418
+37,'2015-05-02','Tavricheskoye Stadium','T',66007,405499
+38,'2012-10-27','Tungguwaneng Stadium','T',98662,597815
+39,'2012-04-23','Santiago do Cacém Stadium','T',92779,779292
+40,'2013-01-01','Yasenskaya Stadium','T',44940,629657
+41,'2015-09-30','Stanowice Stadium','L',27713,310469
+42,'2010-02-24','Ayteke Bi Stadium','W',66525,104724
+43,'2013-05-25','Nekhayevskiy Stadium','T',2929,876446
+44,'2018-10-17','Zapod Stadium','L',50054,144553
+45,'2016-04-12','Fakaifou Village Stadium','T',6272,444277
+46,'2013-01-21','Lokolande Stadium','T',80356,56983
+47,'2017-09-01','Mahābād Stadium','W',81171,493446
+48,'2011-03-07','Kauit Stadium','W',78367,44801
+49,'2010-11-06','Bundoran Stadium','L',3761,579311
+50,'2013-09-29','Yishui Stadium','L',26332,773854
+51,'2010-05-05','Pakalongan Stadium','W',68426,812904
+52,'2014-11-27','Dera Murād Jamāli Stadium','W',29687,459269
+53,'2013-02-09','Nürnberg Stadium','T',6281,863343
+54,'2013-07-23','Sungaikakap Stadium','W',26990,622289
+55,'2018-08-04','Al Wajh Stadium','T',82920,338163
+56,'2012-01-01','Kudus Stadium','T',45321,549640
+57,'2011-07-15','Skawica Stadium','W',87123,439611
+58,'2016-10-23','Seoul Stadium','T',34500,321550
+59,'2010-11-27','Wringinputih Stadium','W',65990,232374
+60,'2013-07-01','Mocoa Stadium','L',62664,892448
+61,'2011-01-05','Copán Stadium','W',10003,169158
+62,'2017-06-29','Buzovna Stadium','L',75307,353708
+63,'2018-09-24','Skinnskatteberg Stadium','W',79671,363925
+64,'2015-11-04','Gengzhuang Stadium','L',28129,163572
+65,'2011-03-26','Mechrá Belqsiri Stadium','W',79511,366271
+66,'2018-01-03','Solor Stadium','T',12563,829315
+67,'2017-01-17','Sagopshi Stadium','L',45000,145803
+68,'2015-10-08','Manjakandriana Stadium','L',31076,878374
+69,'2018-01-25','Si Bun Rueang Stadium','L',93123,63696
+70,'2014-04-30','Liulin Stadium','L',96894,717093
+71,'2018-02-11','Daya Stadium','L',61914,563896
+72,'2016-09-12','Kysyl-Syr Stadium','W',29377,550337
+73,'2017-09-07','Leeuwarden Stadium','L',64501,720088
+74,'2012-11-13','Punta de Piedra Stadium','W',43607,407517
+75,'2015-08-31','Berovo Stadium','W',80825,164668
+76,'2016-06-24','Feijó Stadium','W',2993,199509
+77,'2017-03-18','Mijiang Stadium','L',47113,91967
+78,'2015-10-30','Chivhu Stadium','W',73708,689249
+79,'2018-05-08','Göteborg Stadium','T',85499,375497
+80,'2013-04-14','Dubá Stadium','L',41146,160150
+81,'2015-04-15','Borås Stadium','T',65793,526654
+82,'2016-01-30','La Mesa Stadium','W',19887,658236
+83,'2013-02-21','Dodol Stadium','L',79146,176401
+84,'2010-06-03','Rodez Stadium','L',93959,844627
+85,'2014-04-26','Toulouse Stadium','W',99197,840318
+86,'2017-11-14','Plaju Stadium','T',46020,816799
+87,'2018-01-18','Jingjiao Stadium','W',25301,846319
+88,'2014-12-25','Al Ḩīlah Stadium','W',25116,641749
+89,'2013-01-28','Mabini Stadium','T',62651,99759
+90,'2014-11-11','Rincón Stadium','L',61186,274505
+91,'2012-04-23','Grosuplje Stadium','W',14660,312525
+92,'2017-06-11','Omaha Stadium','W',69848,392291
+93,'2012-08-16','Nadezhda Stadium','L',99099,437744
+94,'2013-08-15','Porvenir Stadium','T',67331,734900
+95,'2014-04-23','Riachos Stadium','L',5224,536387
+96,'2012-08-17','Xizhong Stadium','W',16331,252651
+97,'2012-10-29','Najin Stadium','L',71920,58061
+98,'2016-03-21','Dongpu Stadium','W',29280,619272
+99,'2014-08-16','Sabóia Stadium','L',72126,228222
+100,'2016-09-17','As Salţ Stadium','W',77018,565002
+101,'2015-08-19','Zgornje Gorje Stadium','W',58933,190518
+102,'2011-01-11','Mariscala Stadium','W',13560,724056
+103,'2016-10-21','Dranoc Stadium','L',78902,142714
+104,'2011-11-27','São Bento Stadium','W',42271,80042
+105,'2018-04-13','Rio Grande da Serra Stadium','T',52063,754473
+106,'2018-06-06','Castanheira Stadium','W',91392,638337
+107,'2016-12-18','Ke’erlun Stadium','W',83839,507695
+108,'2014-01-07','Doumen Stadium','L',79231,207576
+109,'2014-10-29','Böhöt Stadium','T',5997,488696
+110,'2011-04-19','Albergaria Stadium','W',50170,207209
+111,'2016-02-25','Getulio Stadium','W',24892,575628
+112,'2015-11-29','Paris 06 Stadium','T',71030,471242
+113,'2014-05-14','Shiyang Stadium','L',43868,418396
+114,'2015-03-13','Pruzhany Stadium','W',30277,756214
+115,'2019-01-13','Šentvid pri Stični Stadium','T',66482,457629
+116,'2010-12-12','Lengshui Stadium','L',84274,373914
+117,'2013-02-27','Rybnoye Stadium','W',94722,409889
+118,'2010-09-21','Kaliro Stadium','L',73572,271669
+119,'2014-03-30','Shadui Stadium','T',91549,585139
+120,'2013-10-18','Mangseng Stadium','T',59489,670899
+121,'2014-12-25','Caqu Stadium','W',29024,473205
+122,'2014-04-18','Orlando Stadium','T',16702,354870
+123,'2010-01-20','Garahaji Stadium','T',18789,205795
+124,'2017-07-26','Müllendorf Stadium','T',83423,309168
+125,'2013-12-22','Pingli Stadium','T',2067,413029
+126,'2013-03-23','Thanh Chương Stadium','W',60490,156658
+127,'2017-12-10','Yanas Stadium','W',59765,234717
+128,'2014-11-13','Ervedosa do Douro Stadium','T',42291,145107
+129,'2012-07-07','Bedford Stadium','W',24357,552443
+130,'2013-07-21','Thành phố Bạc Liêu Stadium','W',25718,743878
+131,'2014-05-05','Södertälje Stadium','L',97959,872000
+132,'2017-04-30','Kisoro Stadium','T',17323,339836
+133,'2015-02-20','Xincun Stadium','T',87013,217269
+134,'2013-07-04','Gao’an Stadium','W',60159,680661
+135,'2014-02-07','Banjar Batuaji Kaja Stadium','W',95307,346146
+136,'2012-10-30','Zhongguan Stadium','W',47300,18490
+137,'2013-03-11','Luzern Stadium','L',41654,324741
+138,'2012-10-09','Houston Stadium','L',42606,529849
+139,'2011-04-23','Annino Stadium','W',16445,629209
+140,'2011-11-15','Kepuh Stadium','W',85888,557797
+141,'2010-03-10','Jeblog Satu Stadium','T',75509,474916
+142,'2012-01-12','Miura Stadium','W',78440,484911
+143,'2012-09-28','Srostki Stadium','L',66604,526859
+144,'2018-02-26','Dunlewy Stadium','T',63134,754568
+145,'2013-01-31','Puerto Madryn Stadium','W',91100,546751
+146,'2011-08-19','Mount Darwin Stadium','T',96701,747878
+147,'2012-04-19','Nishio Stadium','T',47908,21036
+148,'2017-03-13','Wete Stadium','W',72739,438412
+149,'2011-01-26','Trudovoye Stadium','T',17758,80678
+150,'2018-09-04','Brněnec Stadium','L',12211,95827
+151,'2016-07-29','Dongyuan Stadium','L',49020,322311
+152,'2011-10-06','Thị Trấn Tà Lùng Stadium','T',51083,692514
+153,'2015-07-09','Hayil Stadium','L',73046,109987
+154,'2011-09-10','Xiaoyi Stadium','L',20912,407610
+155,'2011-09-14','Las Toscas Stadium','L',83938,706840
+156,'2018-04-16','Zaporizhzhya Stadium','T',81643,509187
+157,'2011-02-23','Seren Barat Stadium','W',18570,43543
+158,'2014-06-03','Kubang Stadium','T',46741,829062
+159,'2014-03-25','Leśna Podlaska Stadium','L',88274,670159
+160,'2010-02-12','Martinópolis Stadium','L',20897,523560
+161,'2016-04-30','Ninghai Stadium','L',57527,186067
+162,'2014-06-05','Terjan Stadium','L',80734,512330
+163,'2013-09-18','Pelasgía Stadium','L',54091,514217
+164,'2010-06-19','Gaphatshwe Stadium','L',57922,64806
+165,'2017-10-14','Pangradin Satu Stadium','W',87969,283550
+166,'2018-02-10','Almaty Stadium','T',99776,618268
+167,'2014-11-29','Azenhas do Mar Stadium','W',19078,338432
+168,'2012-11-22','Phu Khiao Stadium','L',37774,896926
+169,'2010-09-16','Santos Evos Stadium','L',20856,845969
+170,'2014-08-27','Táriba Stadium','W',10380,167293
+171,'2017-11-03','Orsha Stadium','W',48065,733229
+172,'2014-09-20','Alor Setar Stadium','L',38599,794285
+173,'2012-05-30','La Purisima Stadium','W',14919,753895
+174,'2015-03-27','Verin Artashat Stadium','W',62105,177730
+175,'2018-03-22','Bolotnoye Stadium','W',90760,284097
+176,'2018-11-11','Tiegai Stadium','T',74147,634570
+177,'2013-05-20','Nynäshamn Stadium','L',73646,757233
+178,'2018-01-14','Loreto Stadium','L',16350,486850
+179,'2010-11-15','Vilarelho Stadium','W',96739,759144
+180,'2017-02-18','La Jutosa Stadium','L',92382,106223
+181,'2010-08-19','Dazhou Stadium','T',21049,244473
+182,'2016-02-09','San Luis Stadium','L',20092,74741
+183,'2010-02-25','Avelar Stadium','W',40569,412100
+184,'2010-11-17','Rybnoye Stadium','W',62475,214817
+185,'2018-05-10','Raheny Stadium','W',57438,740594
+186,'2018-07-05','Gamovo Stadium','T',24020,297690
+187,'2018-07-20','Chenzhou Stadium','T',58510,760013
+188,'2013-01-31','Luoping Stadium','L',31692,824430
+189,'2013-05-23','Bejuco Stadium','L',16662,417141
+190,'2014-11-07','Buldon Stadium','L',60986,234054
+191,'2011-06-12','Torino Stadium','W',79513,438771
+192,'2011-12-16','Daigo Stadium','T',32121,624341
+193,'2010-01-17','Asheville Stadium','L',41346,159170
+194,'2018-12-08','Cahors Stadium','L',34011,268481
+195,'2014-07-27','Heerlen Stadium','W',17265,736014
+196,'2010-08-01','Villejuif Stadium','T',6854,32172
+197,'2015-08-31','Jönköping Stadium','T',86042,589562
+198,'2014-06-16','Lavezares Stadium','W',18351,337428
+199,'2015-03-23','Longtian Stadium','T',13947,348607
+200,'2015-08-05','Cambas Stadium','W',23263,835116
+201,'2013-01-20','Jiuhe Stadium','W',66664,251343
+202,'2012-01-20','Kalangbret Stadium','L',70283,410593
+203,'2018-02-26','Lilio Stadium','L',13463,751224
+204,'2015-09-06','Gelin Stadium','W',68909,668252
+205,'2018-11-30','Twyford Stadium','T',80999,187764
+206,'2015-03-11','Lelystad Stadium','L',24458,589640
+207,'2014-07-14','Kertamukti Stadium','T',69498,703726
+208,'2015-11-26','Itbayat Stadium','T',85902,781934
+209,'2015-08-02','Shejiang Stadium','T',15826,192046
+210,'2014-01-20','Patos Stadium','T',87268,621027
+211,'2016-04-26','Kónitsa Stadium','T',54264,687871
+212,'2015-05-22','Semambung Stadium','T',45420,719344
+213,'2015-03-13','Al Aḩmadī Stadium','L',38660,571920
+214,'2017-10-09','Celica Stadium','T',33590,507387
+215,'2011-12-20','Liutang Stadium','T',27340,856387
+216,'2018-07-27','Mataya Stadium','W',59114,717271
+217,'2013-02-26','Tunggulsari Stadium','W',2492,603494
+218,'2010-08-10','Atlanta Stadium','T',75163,497221
+219,'2013-09-18','Kaura Namoda Stadium','L',45034,30083
+220,'2011-01-02','Araucária Stadium','T',64492,68526
+221,'2016-02-14','Elaiochóri Stadium','T',64683,371370
+222,'2012-03-25','Nîmes Stadium','L',87928,449098
+223,'2013-09-21','Guanban Stadium','L',65321,877142
+224,'2014-11-05','Lac-Brome Stadium','W',27217,218834
+225,'2017-09-01','Ilongero Stadium','L',20047,594120
+226,'2017-06-20','Villamaría Stadium','L',12580,408790
+227,'2014-02-09','Irákleia Stadium','L',82191,856166
+228,'2018-07-26','Hudson Stadium','T',44120,783465
+229,'2010-12-25','Payao Stadium','L',69610,308699
+230,'2010-07-26','Pende Stadium','L',28859,899126
+231,'2013-09-19','Iracemápolis Stadium','T',11167,670278
+232,'2011-02-09','Wan’an Stadium','W',74335,499571
+233,'2010-03-06','Shishan Stadium','L',47152,677998
+234,'2018-09-22','Curry Stadium','T',74849,456270
+235,'2010-05-12','Baota Stadium','L',75134,280866
+236,'2014-01-28','Sidamukti Stadium','T',24941,410835
+237,'2016-03-04','Świlcza Stadium','W',76456,147806
+238,'2017-03-31','Göteborg Stadium','T',54679,237051
+239,'2014-05-16','Altos Stadium','T',90620,443891
+240,'2012-10-22','Tauca Stadium','W',67148,739712
+241,'2013-10-01','Shchigry Stadium','L',54735,162168
+242,'2012-01-03','Rizhao Stadium','W',59932,772653
+243,'2010-09-28','Chaykovskaya Stadium','L',29360,94071
+244,'2017-12-24','George Town Stadium','T',23500,227596
+245,'2015-03-19','Lingdong Stadium','T',23787,86066
+246,'2010-01-11','Goiana Stadium','W',45199,373937
+247,'2012-07-18','Sagua la Grande Stadium','L',86258,472281
+248,'2012-04-20','Bích Động Stadium','T',19093,841895
+249,'2012-01-15','Embarcación Stadium','T',96517,775276
+250,'2015-01-25','Weston Stadium','T',98467,556996
+251,'2015-06-12','Youfang Stadium','T',45167,404085
+252,'2010-05-16','Oele Stadium','T',39925,805943
+253,'2018-02-07','Nokaneng Stadium','T',59050,836047
+254,'2018-11-11','Butel Stadium','T',24986,318314
+255,'2015-02-23','Huari Stadium','W',92589,715305
+256,'2014-05-03','Sacotes Stadium','T',34803,279662
+257,'2013-12-03','Abua Stadium','T',48095,732080
+258,'2017-03-14','Santa Nino Stadium','W',33487,373479
+259,'2013-06-15','Sibinal Stadium','W',75024,896369
+260,'2010-02-20','Bator Stadium','W',48556,564676
+261,'2011-02-10','Örnsköldsvik Stadium','L',29580,308553
+262,'2015-07-19','Germiston Stadium','L',88612,277109
+263,'2018-04-05','Lixin Stadium','W',18265,493176
+264,'2012-11-18','Hậu Nghĩa Stadium','L',86045,206213
+265,'2011-02-15','Pasarkuok Stadium','L',26082,73107
+266,'2010-01-18','Saint-Étienne Stadium','W',60464,701261
+267,'2013-09-26','Myeik Stadium','W',48069,768443
+268,'2015-07-13','Zhalinghu Stadium','W',69611,433946
+269,'2013-11-09','Yukuhashi Stadium','T',64014,215615
+270,'2012-01-16','Wucun Stadium','W',36452,894974
+271,'2014-07-17','Piraí do Sul Stadium','T',8389,631251
+272,'2017-04-15','Thessaloníki Stadium','L',42464,562417
+273,'2018-08-10','Kibondo Stadium','L',89387,169724
+274,'2018-01-21','Paris 09 Stadium','L',71317,185764
+275,'2011-07-23','Nara-shi Stadium','L',45209,867966
+276,'2010-05-14','Abadou Stadium','L',18933,183277
+277,'2010-07-01','Xiongguan Stadium','L',74382,299618
+278,'2013-01-27','Tianmuhu Stadium','W',15253,32526
+279,'2012-07-21','La Cueva Stadium','W',2636,778787
+280,'2013-03-16','Ciranca Satu Stadium','W',47714,211364
+281,'2018-07-05','Thị Trấn Phú Mỹ Stadium','W',20354,443867
+282,'2014-11-04','Zhangdian Stadium','T',59355,114489
+283,'2015-08-02','Dzorastan Stadium','T',49028,63941
+284,'2010-09-07','Kýria Stadium','L',15969,712301
+285,'2012-04-25','Guadalupe Stadium','T',96226,564997
+286,'2012-10-07','Newark Stadium','W',56513,341667
+287,'2017-09-10','Yihe Stadium','L',31587,421157
+288,'2011-05-18','Guintubhan Stadium','L',11062,18415
+289,'2010-04-03','Krasnogorsk Stadium','L',82185,737004
+290,'2010-10-23','Xilaiqiao Stadium','L',17149,857078
+291,'2010-06-06','Banī Khallād Stadium','L',47000,490502
+292,'2010-04-29','Ciharalang Stadium','W',16741,666336
+293,'2012-10-11','Campo Grande Stadium','T',77562,79568
+294,'2013-05-14','Gunungputri Stadium','L',26681,439157
+295,'2017-02-08','Zubří Stadium','W',51811,118328
+296,'2010-12-01','Skoczów Stadium','T',68736,859834
+297,'2014-02-16','Xialaba Stadium','W',99614,145313
+298,'2010-10-03','Bailai Stadium','L',20091,808842
+299,'2016-11-01','Romba Stadium','W',56352,877367
+300,'2016-02-27','Dmytrivka Stadium','W',56016,12063
+301,'2010-09-02','Carahue Stadium','W',63420,442874
+302,'2010-04-19','Haugesund Stadium','W',32154,896456
+303,'2016-10-28','Waitara Stadium','L',95799,236434
+304,'2016-01-27','Tunja Stadium','W',66486,714553
+305,'2012-12-05','Maji Stadium','W',31670,804162
+306,'2013-02-25','Ueki Stadium','L',32359,25256
+307,'2010-03-26','Rossosh’ Stadium','L',67044,675586
+308,'2011-01-22','Liulin Stadium','W',99924,371863
+309,'2010-01-26','Providence Stadium','T',46622,655866
+310,'2015-11-10','Heping Stadium','T',4535,817980
+311,'2018-08-02','Cipanas Stadium','L',7275,287720
+312,'2011-07-03','Yakovlevo Stadium','T',39177,322445
+313,'2014-01-17','Bāsawul Stadium','W',85154,180321
+314,'2011-01-02','Rizal Stadium','W',93157,23375
+315,'2015-12-15','Dzel Stadium','L',27482,816583
+316,'2010-12-07','Figueira Stadium','W',27665,47815
+317,'2010-03-09','Rizal Stadium','L',76922,62940
+318,'2010-05-20','Xiaochi Stadium','L',60923,886996
+319,'2016-10-03','Kudus Stadium','T',72098,186965
+320,'2011-06-28','Serra Talhada Stadium','T',46122,839816
+321,'2012-08-31','Llano de Piedra Stadium','L',42168,350442
+322,'2014-07-24','Hägersten Stadium','W',8829,321191
+323,'2016-01-03','Bilian Stadium','W',2494,723381
+324,'2011-01-07','Kimhae Stadium','T',81221,453375
+325,'2017-09-27','Yangdu Stadium','L',79679,775121
+326,'2011-12-02','Oklahoma City Stadium','W',27101,327251
+327,'2017-02-21','San Andres Stadium','T',52187,687932
+328,'2016-09-11','Göteborg Stadium','L',87535,139918
+329,'2010-07-10','El Rincón Stadium','W',96446,231066
+330,'2018-09-02','Koga Stadium','L',10399,83050
+331,'2012-01-15','Vigo Stadium','T',32077,346383
+332,'2011-11-28','Si Bun Rueang Stadium','L',42093,309088
+333,'2010-06-04','Ilaya Stadium','L',64473,202231
+334,'2010-05-03','Lefkímmi Stadium','W',5993,153939
+335,'2015-03-27','Tempeh Tengah Stadium','T',95898,24475
+336,'2012-02-17','Pravda Stadium','W',459,272265
+337,'2018-03-12','Lautoka Stadium','T',90681,470150
+338,'2014-07-16','Guangyubao Stadium','L',67186,113673
+339,'2018-07-30','Babakan Baru Stadium','T',67032,186526
+340,'2015-03-12','Rancabugel Stadium','W',85821,561147
+341,'2010-04-15','Nyeri Stadium','W',98976,639927
+342,'2013-02-07','Yoichi Stadium','W',61476,106143
+343,'2014-04-24','Gewanē Stadium','W',46567,408328
+344,'2012-11-15','Baimajing Stadium','L',37447,466501
+345,'2010-05-25','Badian Stadium','L',33943,160714
+346,'2010-05-22','Jiguan Stadium','T',9070,346509
+347,'2012-02-29','Lysogorskaya Stadium','T',96084,629858
+348,'2013-08-05','Dolní Bečva Stadium','L',31911,402292
+349,'2010-06-30','Boituva Stadium','L',24112,250256
+350,'2018-03-21','San Bernardino Stadium','T',27189,519765
+351,'2017-04-14','Dagestanskiye Ogni Stadium','L',74719,457748
+352,'2011-11-18','Brańsk Stadium','L',93505,342975
+353,'2011-01-30','San Ramón Stadium','T',21400,17558
+354,'2015-02-06','São Domingos do Maranhão Stadium','T',27835,16554
+355,'2011-02-12','Paris La Défense Stadium','T',26321,880973
+356,'2015-06-23','Firmat Stadium','W',78168,126809
+357,'2010-02-27','Ungsang Stadium','W',25708,642122
+358,'2011-09-06','Atuntaqui Stadium','T',21510,129408
+359,'2010-09-18','Stockholm Stadium','L',60560,696706
+360,'2017-04-02','Tegalgede Stadium','L',98033,766789
+361,'2012-04-06','Bayawan Stadium','L',4394,102623
+362,'2016-04-21','Shaoyang Stadium','W',31302,93871
+363,'2017-06-08','Ushuaia Stadium','T',87043,790404
+364,'2017-01-27','Uniejów Stadium','L',76069,136597
+365,'2018-07-15','Atami Stadium','W',17987,22689
+366,'2016-03-11','Parabcan Stadium','L',93031,316813
+367,'2014-03-09','Chojata Stadium','T',60105,469382
+368,'2017-01-15','Baryshivka Stadium','W',10401,209369
+369,'2015-09-01','Xia’ertai Stadium','W',65805,16227
+370,'2015-03-26','Kedungtulup Stadium','T',80837,84193
+371,'2016-07-28','Kafr Şūr Stadium','T',79887,737393
+372,'2012-09-11','Concord Stadium','W',85389,613035
+373,'2015-03-21','Al Jabīn Stadium','L',70367,495541
+374,'2014-10-17','Kimhae Stadium','L',92639,12462
+375,'2014-11-21','Singgugu Stadium','T',21377,345688
+376,'2012-08-08','Mabiton Stadium','W',31145,240965
+377,'2015-08-13','Batallas Stadium','W',6989,617638
+378,'2014-11-25','Yanghu Stadium','W',63821,784246
+379,'2012-03-25','Isulan Stadium','W',72612,783043
+380,'2014-09-29','Kamenka Stadium','T',82817,217188
+381,'2015-12-28','Annino Stadium','W',17567,335122
+382,'2014-05-15','Polepy Stadium','L',58052,289631
+383,'2011-09-03','Rantau Stadium','T',32773,562133
+384,'2013-05-21','Saposoa Stadium','T',54200,87781
+385,'2010-02-05','Caicedonia Stadium','L',38403,103185
+386,'2011-03-24','Arue Stadium','W',37349,419021
+387,'2015-11-28','Chatuchak Stadium','T',58387,273793
+388,'2014-09-08','Kouzhen Stadium','W',48896,586065
+389,'2018-12-05','Tsalgar Stadium','T',58793,879746
+390,'2016-03-25','Karlshamn Stadium','W',25617,819930
+391,'2011-05-26','Shanghudi Stadium','W',91406,446385
+392,'2018-06-11','Sūq al Khamīs Stadium','L',53680,474062
+393,'2018-05-18','Potrero Grande Stadium','L',12711,803487
+394,'2018-09-26','Kalodu Stadium','W',80779,495125
+395,'2013-01-26','Grivenskaya Stadium','L',81548,868764
+396,'2013-03-14','Aigínio Stadium','L',68804,51266
+397,'2012-11-15','Tabiauan Stadium','L',48755,438729
+398,'2014-06-19','Xirikxiy Stadium','L',91225,210798
+399,'2017-03-22','Upernavik Stadium','W',68446,103559
+400,'2018-11-19','Taman Stadium','W',51768,601059
+401,'2016-12-01','Нераште Stadium','L',94232,562044
+402,'2010-06-05','Atsugi Stadium','T',92755,157291
+403,'2013-10-29','Tanrake Village Stadium','W',55850,555446
+404,'2015-06-16','Bern Stadium','T',16165,652378
+405,'2016-05-08','Muarasiau Stadium','L',22311,464729
+406,'2012-04-16','Tiouli Stadium','L',25902,267940
+407,'2015-04-27','Fiais da Beira Stadium','T',62919,101324
+408,'2016-11-23','Hostos Stadium','W',91483,377224
+409,'2013-08-08','Stupsk Stadium','T',55696,37608
+410,'2018-11-02','Gornja Koprivna Stadium','T',88891,479669
+411,'2014-03-26','Chwałowice Stadium','W',76011,319310
+412,'2011-12-08','Kafr Kannā Stadium','T',78022,500683
+413,'2017-05-20','Berëzovskiy Stadium','L',87350,560007
+414,'2017-12-05','Campo Mourão Stadium','W',26086,15215
+415,'2010-11-02','Xiaochi Stadium','W',96849,741642
+416,'2011-04-17','Tielou Stadium','W',27635,63780
+417,'2016-05-19','Nagrog Stadium','T',12602,335289
+418,'2014-03-09','Shilovo Stadium','L',60190,31766
+419,'2017-04-09','Liuche Stadium','W',45454,175457
+420,'2017-06-03','Longjumeau Stadium','L',38010,379815
+421,'2012-12-28','Lumijoki Stadium','W',43936,578951
+422,'2017-10-08','Azacualpa Stadium','T',41044,126491
+423,'2016-06-09','Troitskaya Stadium','W',75006,727930
+424,'2014-09-19','Shirgjan Stadium','T',92838,365883
+425,'2013-09-13','Krimpen aan den IJssel Stadium','L',35802,37567
+426,'2014-08-11','Mathba Stadium','T',12941,308108
+427,'2014-12-11','Washington Stadium','T',8164,261173
+428,'2014-04-23','Kostanay Stadium','W',89312,215985
+429,'2018-08-07','Vegreville Stadium','L',73794,341178
+430,'2016-07-26','Adir Stadium','T',41424,782449
+431,'2018-10-22','Tsuen Wan Stadium','W',37606,718164
+432,'2010-06-06','Dolno Palčište Stadium','W',70283,164578
+433,'2014-01-23','Segezha Stadium','W',1411,493744
+434,'2015-01-10','Baraçais Stadium','W',98867,258517
+435,'2015-03-04','Karpokhórion Stadium','L',32659,15510
+436,'2011-06-05','Itapetinga Stadium','W',19823,629459
+437,'2017-10-29','Uglovoye Stadium','L',23824,803725
+438,'2017-12-22','Pau Stadium','T',15534,102996
+439,'2017-09-12','Gagah Stadium','W',67484,313527
+440,'2010-11-08','Gostynin Stadium','W',71352,193099
+441,'2016-11-25','Laventure Stadium','W',54958,140124
+442,'2014-03-04','São Bernardo do Campo Stadium','L',70064,614347
+443,'2011-05-08','Vilares Stadium','T',13753,695746
+444,'2013-01-30','Taraan Stadium','W',68763,491249
+445,'2018-06-25','Kebon Tengah Stadium','W',71256,89445
+446,'2012-08-13','Helmsange Stadium','T',75325,474157
+447,'2012-09-22','Knoxville Stadium','T',11701,785576
+448,'2014-01-16','Corral de Bustos Stadium','T',28527,474596
+449,'2010-04-13','Korba Stadium','W',33776,47548
+450,'2014-12-08','Quinta Stadium','T',78471,414558
+451,'2016-05-03','Aminga Stadium','L',86600,626375
+452,'2015-03-15','Hachiōji Stadium','L',37509,261780
+453,'2018-11-17','Barreira Stadium','W',7746,532262
+454,'2015-10-16','El Tambo Stadium','W',75823,461509
+455,'2018-04-17','Tongliao Stadium','L',68993,694206
+456,'2016-01-11','Shediac Stadium','T',73103,365372
+457,'2011-03-08','Daqiao Stadium','W',95685,282107
+458,'2017-12-21','Jishi Stadium','L',16180,84958
+459,'2016-07-23','Tangjia Stadium','T',25762,398144
+460,'2012-09-24','Longwu Stadium','W',19621,109382
+461,'2016-07-20','Legen Stadium','W',47438,472607
+462,'2017-08-20','Bengras Stadium','T',82179,649047
+463,'2011-10-24','Skhira Stadium','L',82139,399493
+464,'2011-07-24','La Reforma Stadium','T',18368,533671
+465,'2012-04-09','Kushovë Stadium','L',86072,492293
+466,'2012-07-10','São Lourenço do Sul Stadium','W',28015,789924
+467,'2014-05-15','Udanin Stadium','L',88801,829543
+468,'2010-11-18','Hpa-an Stadium','T',8118,877103
+469,'2012-01-27','Pápa Stadium','L',3002,401110
+470,'2012-05-12','Mehmand Chak Stadium','W',75574,507866
+471,'2013-04-29','Émponas Stadium','L',81101,221855
+472,'2014-05-08','Teykovo Stadium','T',27514,406975
+473,'2010-06-20','Sukoanyar Stadium','W',62460,181888
+474,'2012-04-08','Dayu Stadium','L',84456,798912
+475,'2013-09-05','Bantar Tengah Stadium','W',23983,316838
+476,'2010-11-22','Néo Psychikó Stadium','T',44357,165992
+477,'2017-02-06','Jardim Stadium','W',67583,839843
+478,'2010-07-26','Uiasa Stadium','T',74711,13686
+479,'2016-08-15','Dongshi Stadium','W',34357,554293
+480,'2010-01-30','Kriel Stadium','W',1715,493123
+481,'2010-10-30','Qukuhu Stadium','W',93875,93988
+482,'2010-07-13','Yizhivtsi Stadium','T',12223,530953
+483,'2011-02-12','Ifon Stadium','T',66701,507832
+484,'2014-02-13','Xinpu Stadium','W',48466,107127
+485,'2012-07-30','Torbeck Stadium','T',62414,70712
+486,'2017-03-11','Lorica Stadium','T',42007,402818
+487,'2012-09-21','Tandag Stadium','W',77251,833077
+488,'2010-09-13','Shiroishi Stadium','L',25467,553132
+489,'2013-09-18','Xiaolin Stadium','W',22042,344175
+490,'2010-09-17','Las Vegas Stadium','T',6055,402138
+491,'2014-03-06','Lusong Stadium','T',20451,392907
+492,'2012-02-22','Stockholm Stadium','T',66717,532793
+493,'2014-06-24','Piekoszów Stadium','W',23145,235631
+494,'2015-06-05','Spånga Stadium','W',33396,650432
+495,'2011-05-29','Kumbo Stadium','L',87391,792206
+496,'2010-03-29','Châlons-en-Champagne Stadium','W',79344,884223
+497,'2012-07-24','Itapissuma Stadium','L',86390,814516
+498,'2014-01-11','Mogapinyana Stadium','L',63882,680970
+499,'2013-12-13','Intibucá Stadium','W',6875,238014
+500,'2014-12-03','Asembagus Stadium','T',96534,451208
+501,'2012-05-23','Binjiang Stadium','L',57384,710175
+502,'2012-06-13','Peristerá Stadium','L',90356,562950
+503,'2011-10-15','Maying Stadium','L',62496,110101
+504,'2017-10-21','Smolensk Stadium','L',24876,339755
+505,'2012-04-17','Kamyanyuki Stadium','L',93658,169938
+506,'2013-07-14','Yeghvard Stadium','L',60158,46977
+507,'2013-08-19','Xiaodukou Stadium','L',607,37953
+508,'2011-05-24','La Ensenada Stadium','L',32967,21492
+509,'2017-02-05','Khirdalan Stadium','T',31944,186096
+510,'2010-12-03','Souto do Meio Stadium','L',80856,899175
+511,'2013-11-25','Batasan Bata Stadium','T',3598,357540
+512,'2011-12-24','Cajueiro Stadium','L',93302,296051
+513,'2010-05-24','Tashang Stadium','W',14512,168113
+514,'2014-08-14','Kankan Stadium','T',40256,740548
+515,'2016-07-12','Quintela Stadium','L',47387,692587
+516,'2018-02-27','Chak Two Hundred Forty-Nine TDA Stadium','W',60022,280095
+517,'2016-01-13','Fresno Stadium','W',19028,861141
+518,'2010-08-06','Troyes Stadium','W',92118,494721
+519,'2018-02-04','Krajan Sumurtawang Stadium','T',16970,380469
+520,'2018-03-23','Huangtan Stadium','W',77993,152938
+521,'2017-06-06','Āq Qāyeh Stadium','W',33614,461151
+522,'2015-12-17','Peoria Stadium','L',64813,555835
+523,'2013-01-08','Tsagaan-Owoo Stadium','W',69391,239188
+524,'2014-02-01','Kingisepp Stadium','L',19016,518313
+525,'2016-09-12','Cerna Stadium','T',96883,326835
+526,'2017-04-20','Wangwu Stadium','W',66028,380400
+527,'2018-08-14','Grabica Stadium','L',12340,67425
+528,'2017-03-03','Woerden Stadium','W',54402,165960
+529,'2010-07-22','Bastia Stadium','L',14202,482854
+530,'2010-07-13','Contraalmirante Cordero Stadium','W',24214,34108
+531,'2015-07-08','Padre Bernardo Stadium','W',82436,45856
+532,'2017-02-05','Saratamata Stadium','T',49225,503009
+533,'2018-06-16','Kamen’-na-Obi Stadium','W',80109,697779
+534,'2010-09-04','Jiaocun Stadium','T',38780,616617
+535,'2016-02-07','Montgomery Stadium','T',51213,484492
+536,'2010-10-23','Gaobeijie Stadium','L',89249,792066
+537,'2017-05-23','Islamey Stadium','W',38498,490679
+538,'2016-07-13','Lüyang Stadium','T',74255,212820
+539,'2016-09-16','Falun Stadium','L',40286,284212
+540,'2016-07-28','Yinjiacheng Stadium','T',67928,175303
+541,'2010-08-02','Bakung Stadium','T',428,416675
+542,'2011-10-06','Strumica Stadium','W',49625,370770
+543,'2012-09-27','Selaawi Stadium','W',42398,523607
+544,'2014-09-22','Kolympári Stadium','T',80209,545700
+545,'2018-08-14','Åkersberga Stadium','L',23509,655826
+546,'2011-11-03','Ninghai Stadium','W',40768,845247
+547,'2016-02-28','Tumba Stadium','W',29525,614307
+548,'2011-09-21','Ordzhonikidze Stadium','W',19262,803354
+549,'2014-01-15','Wucheng Stadium','W',20435,89424
+550,'2012-12-02','Xicheng Stadium','W',62748,170941
+551,'2015-01-23','Jiangdulu Stadium','W',94887,541660
+552,'2016-04-17','Novocherkassk Stadium','L',95992,359429
+553,'2014-10-22','San Diego Stadium','T',40048,356326
+554,'2014-12-06','Lucapa Stadium','W',97157,690914
+555,'2018-11-20','Budapest Stadium','L',40054,98731
+556,'2015-04-20','Quốc Oai Stadium','T',83112,883281
+557,'2013-02-07','Fartura Stadium','L',16957,51075
+558,'2013-06-19','Lahat Stadium','L',74813,374211
+559,'2016-01-13','Béziers Stadium','T',82523,52761
+560,'2018-01-24','Bystrytsya Stadium','L',66052,766874
+561,'2012-04-14','Xingnong Stadium','W',29989,641952
+562,'2015-01-13','Cluain Meala Stadium','L',83521,14924
+563,'2011-10-27','Xinglong Stadium','T',84670,23816
+564,'2014-10-16','Horodne Stadium','T',49662,819547
+565,'2018-08-21','Jingling Stadium','T',29832,148492
+566,'2013-05-18','Turbiv Stadium','T',67152,59777
+567,'2013-10-12','Limboto Stadium','L',74495,479186
+568,'2016-07-21','Periyiáli Stadium','W',21942,753276
+569,'2016-08-22','Murcia Stadium','W',61165,337187
+570,'2010-10-24','Golug Stadium','L',97656,356096
+571,'2017-01-02','Houxi Stadium','W',74038,130608
+572,'2018-05-31','Canauay Stadium','L',888,859293
+573,'2016-06-28','Acul du Nord Stadium','T',7039,831961
+574,'2013-01-20','Shiyu Stadium','W',98584,837094
+575,'2010-06-29','Creil Stadium','L',44568,639871
+576,'2018-03-01','Qishui Stadium','T',30303,452222
+577,'2017-02-13','Zaqatala Stadium','L',45209,348962
+578,'2011-10-14','Shatoujiao Stadium','L',36793,404590
+579,'2010-09-27','Zarichchya Stadium','T',76636,613614
+580,'2010-10-25','Sundbyberg Stadium','W',97632,866644
+581,'2012-05-13','Bayonne Stadium','L',74036,812964
+582,'2015-03-22','Panbang Stadium','W',60400,301795
+583,'2011-09-21','Boquira Stadium','L',10561,192722
+584,'2011-08-25','Émpa Stadium','W',96111,834227
+585,'2016-04-10','Hefu Stadium','T',33974,157157
+586,'2017-11-27','Harbutowice Stadium','L',40812,354525
+587,'2015-10-08','Caminauit Stadium','T',16252,716930
+588,'2015-04-30','Lazaro Cardenas Stadium','T',12526,172063
+589,'2018-03-26','Xazgat Stadium','W',31002,323456
+590,'2011-02-21','Valmiera Stadium','L',2109,729375
+591,'2014-01-30','Stari Lec Stadium','W',19218,62344
+592,'2017-12-20','Katyr-Yurt Stadium','T',66920,721549
+593,'2011-06-11','Novopokrovskaya Stadium','T',26367,791352
+594,'2018-09-14','Dordrecht Stadium','T',86859,730978
+595,'2018-08-25','Delson Stadium','W',91913,856987
+596,'2012-09-13','Selishche Stadium','L',70332,286195
+597,'2017-09-06','Chedao Stadium','W',86594,409293
+598,'2011-05-08','Kalinovskoye Stadium','L',7350,496611
+599,'2010-11-22','Caçador Stadium','W',32149,725977
+600,'2014-08-02','Světlá nad Sázavou Stadium','T',82386,108505
+601,'2011-03-04','Neiafu Stadium','L',57691,159639
+602,'2017-05-10','Olyshivka Stadium','W',59782,824744
+603,'2018-04-19','Mandikbatu Stadium','L',64826,527373
+604,'2012-12-27','Gisiliba Stadium','W',77807,289966
+605,'2013-04-03','Novokuybyshevsk Stadium','W',95908,314306
+606,'2015-09-22','Nantian Stadium','T',10210,151477
+607,'2015-06-26','Huangxi Stadium','L',75746,154381
+608,'2010-09-20','Jalapa Stadium','W',40915,400064
+609,'2012-04-10','San Francisco Stadium','W',86203,365058
+610,'2011-08-12','Dukuhsia Stadium','W',19338,658729
+611,'2012-06-28','Poste de Flacq Stadium','T',53917,38682
+612,'2012-06-14','Mimbaan Timur Stadium','W',73491,852104
+613,'2017-06-14','Montélimar Stadium','T',92254,849691
+614,'2018-10-03','Sundbyberg Stadium','T',7855,831233
+615,'2017-09-06','Jiuxian Stadium','W',590,260138
+616,'2010-02-08','Balsas Stadium','W',11518,340111
+617,'2014-07-14','Győr Stadium','W',82429,195341
+618,'2013-05-23','Ozubulu Stadium','L',56296,605409
+619,'2011-04-04','Teeli Stadium','L',46415,423289
+620,'2015-01-16','Municipio de Copacabana Stadium','W',94878,441411
+621,'2018-08-25','Aksu Stadium','T',88211,504735
+622,'2015-07-09','Macayug Stadium','W',20983,229553
+623,'2015-04-30','Madalum Stadium','L',48359,315721
+624,'2012-05-09','Manjakandriana Stadium','L',85011,43639
+625,'2018-10-12','Artimet Stadium','T',54721,263386
+626,'2010-01-28','Itako Stadium','T',97702,408812
+627,'2014-04-26','Izmaylovo Stadium','L',82112,207371
+628,'2011-12-08','Kosakowo Stadium','W',18398,318658
+629,'2016-01-12','Paris 09 Stadium','W',48882,239366
+630,'2013-01-20','Tchaourou Stadium','W',69082,118878
+631,'2012-06-22','Verkhnyaya Tura Stadium','L',25987,679382
+632,'2018-07-19','Vogan Stadium','L',77438,404289
+633,'2016-10-21','Krajan Gebangan Stadium','L',11462,763107
+634,'2016-02-29','Orlando Stadium','T',22687,672930
+635,'2015-03-03','Hämeenkoski Stadium','W',22021,606517
+636,'2011-08-26','Reims Stadium','T',47846,722784
+637,'2012-11-30','Xiexiong Stadium','W',83816,178499
+638,'2013-09-06','Shizi Stadium','L',65618,444340
+639,'2015-11-17','Guzhan Stadium','L',68509,433129
+640,'2017-03-03','Zhuanqukou Stadium','W',25417,306588
+641,'2017-08-08','Řečany nad Labem Stadium','L',56921,242402
+642,'2010-11-02','San Pedro Stadium','L',82374,792532
+643,'2014-10-12','West Hartford Stadium','L',70165,663231
+644,'2011-09-14','Los Guayos Stadium','L',62983,687493
+645,'2013-08-05','Pakong Stadium','W',92753,669587
+646,'2018-11-28','Altares Stadium','W',83427,734688
+647,'2016-04-15','Quchanghī Stadium','T',59230,630989
+648,'2017-07-24','Jiaozuo Stadium','L',90099,431334
+649,'2010-07-13','Shekou Stadium','L',4417,373906
+650,'2017-09-02','Ringin Kembar Stadium','W',33985,288065
+651,'2011-08-20','Esfarāyen Stadium','W',27839,827172
+652,'2012-02-20','Tocha Stadium','T',58284,187982
+653,'2018-01-05','Stockholm Stadium','T',3666,877867
+654,'2014-06-07','Savski Venac Stadium','L',29317,284227
+655,'2011-10-18','Montbéliard Stadium','W',59469,327594
+656,'2014-11-10','Täby Stadium','T',13748,57937
+657,'2010-03-01','Capacmarca Stadium','T',94642,501597
+658,'2010-04-27','Jamālpur Stadium','T',84061,210053
+659,'2017-03-15','Gravatá Stadium','L',68089,226836
+660,'2015-02-14','Quetigny Stadium','W',46695,245937
+661,'2016-01-29','Matamey Stadium','L',37435,396610
+662,'2011-06-15','Sida Stadium','L',86255,189756
+663,'2018-11-09','Lišov Stadium','W',2202,493098
+664,'2011-03-24','Cigaras Stadium','T',15467,244685
+665,'2011-05-09','Soukkouma Stadium','L',22895,112025
+666,'2015-05-24','Banjar Lalangpasek Stadium','L',27539,192554
+667,'2014-10-03','Mina de São Domingos Stadium','L',94548,734009
+668,'2010-08-27','Corticeiro de Baixo Stadium','W',29252,162871
+669,'2018-08-06','Ciparasi Stadium','L',77666,827766
+670,'2011-08-10','Kore Stadium','T',52501,745335
+671,'2016-03-24','Bangus Kulon Stadium','T',65729,819667
+672,'2010-09-03','Victoria Stadium','L',61544,96073
+673,'2010-03-12','Sukosari Stadium','T',69795,657054
+674,'2016-09-06','Rumboci Stadium','T',61089,815217
+675,'2016-09-08','Woniuhe Stadium','L',80057,216430
+676,'2013-05-25','Barueri Stadium','L',39756,496238
+677,'2017-06-19','Santa Rosa Stadium','L',18387,541624
+678,'2011-05-22','Şafāshahr Stadium','L',98905,351549
+679,'2011-08-17','Putun Stadium','W',62004,380912
+680,'2018-12-21','Sanxing Stadium','L',70281,764837
+681,'2015-09-13','Tseel Stadium','W',62527,589824
+682,'2014-07-23','Huikou Stadium','T',29243,638797
+683,'2018-08-16','Liugong Stadium','T',20584,413100
+684,'2016-12-11','Bonik Stadium','L',21222,248296
+685,'2012-04-11','Shatura Stadium','T',95610,829888
+686,'2012-05-16','Gununglarang Stadium','L',50636,867640
+687,'2010-04-14','Plavsk Stadium','T',53446,860964
+688,'2014-12-15','Dolulolong Stadium','L',75670,48759
+689,'2017-11-02','Gourcy Stadium','T',89395,730117
+690,'2014-02-07','Albina Stadium','W',89398,713069
+691,'2013-10-18','Hasuda Stadium','T',3771,688141
+692,'2016-09-11','Lebedyn Stadium','L',15002,824461
+693,'2012-04-12','Ban Chang Stadium','L',13204,212627
+694,'2013-07-08','Pang Stadium','T',34903,705833
+695,'2017-10-04','Majie Stadium','W',45982,576346
+696,'2016-05-14','Kafir Yasif Stadium','L',8166,136121
+697,'2014-01-22','Nancy Stadium','L',96061,494549
+698,'2014-05-16','Kalisangkrah Lor Stadium','T',71175,713163
+699,'2011-11-01','Sydney Stadium','W',46419,706210
+700,'2010-07-30','San Fernando de Atabapo Stadium','T',90394,226268
+701,'2014-10-14','Narutō Stadium','T',31324,620763
+702,'2017-10-15','Guankou Stadium','W',65576,65600
+703,'2017-04-19','Kayunga Stadium','W',50424,308071
+704,'2011-05-05','Pereyaslovskaya Stadium','T',61263,804562
+705,'2010-10-01','Chahe Stadium','W',92644,461494
+706,'2010-09-04','Salegading Stadium','W',30772,836647
+707,'2012-07-11','Joal-Fadiout Stadium','W',8773,805469
+708,'2016-04-24','Siemiechów Stadium','T',29890,28192
+709,'2015-10-25','Belén Gualcho Stadium','W',81835,46341
+710,'2013-08-01','Mohelno Stadium','W',64660,620458
+711,'2018-10-21','Şabbūrah Stadium','W',27508,365405
+712,'2018-09-20','Vanves Stadium','L',57343,288454
+713,'2016-06-09','Liaoyang Stadium','W',80136,438318
+714,'2014-02-03','Gyodong Stadium','L',15057,806313
+715,'2013-11-26','Sośnie Stadium','T',30671,581086
+716,'2015-11-17','Hovd Stadium','T',83608,390565
+717,'2014-02-06','Atlanta Stadium','T',84305,832296
+718,'2014-11-02','Richmond Stadium','W',95958,541774
+719,'2013-01-06','Cipesing Stadium','T',66199,814309
+720,'2014-10-03','San Mateo Stadium','W',26301,804824
+721,'2012-01-30','Lima Stadium','W',71968,731572
+722,'2017-03-10','Kamenka Stadium','L',82533,502328
+723,'2017-02-20','Tejen Stadium','W',76386,455310
+724,'2016-12-13','Muruni Stadium','T',45994,702753
+725,'2014-01-31','Paldit Stadium','W',93507,505591
+726,'2011-04-14','Dallas Stadium','W',28063,636445
+727,'2014-01-08','Francisco Villa Stadium','L',37561,82489
+728,'2016-06-16','Kolympári Stadium','T',41438,673936
+729,'2016-03-09','Kadupayung Stadium','T',20665,283167
+730,'2015-06-02','Guangshan Stadium','W',72300,453293
+731,'2012-08-17','Huai’an Stadium','L',11554,515177
+732,'2015-08-27','Dajianchang Stadium','T',39996,446871
+733,'2010-07-05','Taocun Stadium','W',49031,802750
+734,'2017-04-18','Eauripik Stadium','L',58129,595446
+735,'2010-04-29','Bang Nam Priao Stadium','L',8434,371836
+736,'2016-08-09','Cái Dầu Stadium','T',40329,640947
+737,'2012-01-23','Sindangpanji Stadium','W',20109,781978
+738,'2016-05-21','Maradi Stadium','L',87375,769543
+739,'2013-05-30','Tirapata Stadium','W',71377,723438
+740,'2017-08-22','Ash Shafā Stadium','W',41137,741657
+741,'2010-12-01','Nizhnevartovsk Stadium','L',70759,607064
+742,'2013-10-09','Dziewin Stadium','T',74287,338484
+743,'2013-05-21','Grangwav Stadium','L',81453,148223
+744,'2014-04-13','Datangzhuang Stadium','T',37793,457862
+745,'2015-01-16','Huddinge Stadium','T',8480,24994
+746,'2011-07-28','Daoukro Stadium','L',89900,724866
+747,'2013-04-09','Sirdaryo Stadium','T',60337,46956
+748,'2012-10-23','Tipitapa Stadium','T',47624,138335
+749,'2010-05-05','Takanosu Stadium','L',54315,97830
+750,'2013-11-21','Hane Stadium','W',1090,276155
+751,'2017-02-02','Tange Zhen Stadium','W',69492,329389
+752,'2011-08-31','Gentilly Stadium','W',30898,59682
+753,'2015-03-17','Johanneshov Stadium','T',38578,425419
+754,'2017-10-22','Pruszcz Stadium','T',98394,717499
+755,'2017-11-06','San Isidro Stadium','T',18788,340909
+756,'2012-07-01','Shaguotun Stadium','L',41495,81252
+757,'2018-12-22','Tân Sơn Stadium','T',16341,322030
+758,'2013-12-19','Ajman Stadium','T',81921,311622
+759,'2017-01-23','Towa Stadium','L',93370,24526
+760,'2011-02-02','Quezaltepeque Stadium','T',41368,247669
+761,'2016-11-13','Kōfu-shi Stadium','T',45145,734495
+762,'2015-11-24','Tungi Stadium','L',5005,182157
+763,'2013-01-31','Domaradz Stadium','T',96046,521198
+764,'2017-04-14','Barra Stadium','W',25398,85094
+765,'2014-03-31','Cogon Stadium','W',69457,448041
+766,'2016-05-23','Winduraja Stadium','T',23633,480815
+767,'2013-06-21','Koltubanovskiy Stadium','T',57859,224472
+768,'2017-11-20','Soanindrariny Stadium','T',89752,245755
+769,'2018-08-11','Daojiang Stadium','T',75054,241411
+770,'2018-03-17','Henglan Stadium','T',66063,310879
+771,'2016-03-01','Penedo Stadium','T',48083,316578
+772,'2017-09-01','Rybnoye Stadium','T',16285,127768
+773,'2015-08-19','Škofljica Stadium','W',23455,306095
+774,'2017-01-02','Soutelo Stadium','T',37606,52727
+775,'2010-05-03','Melun Stadium','L',99406,245133
+776,'2018-04-29','Paucar Stadium','L',51716,52786
+777,'2012-07-14','Putatbasiun Stadium','L',18680,566350
+778,'2013-05-07','Föglö Stadium','L',96583,33495
+779,'2015-05-21','Al Ḩazm Stadium','L',37731,331260
+780,'2013-12-18','Frederiksberg Stadium','L',43167,408210
+781,'2018-11-17','Frydrychowice Stadium','L',86481,422038
+782,'2010-07-08','Ambanja Stadium','L',44833,716920
+783,'2013-01-02','Yangju Stadium','L',20957,229443
+784,'2012-03-09','Laç Stadium','T',82516,647245
+785,'2016-10-26','Podhum Stadium','W',50518,796768
+786,'2014-06-24','Alasmalang Stadium','T',91281,843200
+787,'2010-02-17','Dawuhan Stadium','W',88643,353300
+788,'2013-01-17','Toubao Stadium','W',85086,670513
+789,'2015-12-20','Gaoqiao Stadium','L',65647,383693
+790,'2012-02-17','Klášterec nad Ohří Stadium','T',14046,860689
+791,'2015-07-03','Qingshui Stadium','T',35005,355256
+792,'2015-12-31','Maloco Stadium','W',36342,333046
+793,'2015-04-06','Concordia Stadium','W',64716,344377
+794,'2010-04-10','Cimaragas Stadium','T',27018,788833
+795,'2012-08-19','Nanjing Stadium','T',73912,895942
+796,'2010-02-02','Jacksonville Stadium','W',33456,258852
+797,'2015-09-28','Firenze Stadium','T',96704,254609
+798,'2011-10-02','Sredno Konjare Stadium','W',40912,456445
+799,'2011-07-02','Breda Stadium','T',4223,274170
+800,'2011-09-14','Lonya Chico Stadium','W',49871,186357
+801,'2018-01-07','Chernyshevsk Stadium','L',74458,451442
+802,'2011-01-13','Sathing Phra Stadium','T',74308,227951
+803,'2015-01-28','Wakuya Stadium','L',95823,852295
+804,'2018-05-08','San Emilio Stadium','W',12416,719411
+805,'2016-06-27','Castelnaudary Stadium','L',35003,441137
+806,'2016-06-27','Kobylin Stadium','L',39099,390865
+807,'2014-10-10','Capim Grosso Stadium','W',69810,356639
+808,'2016-12-03','Camangcamang Stadium','W',23052,626443
+809,'2015-01-01','Jorf Stadium','W',99388,201072
+810,'2012-04-24','Yangcheng Stadium','L',7509,476102
+811,'2014-11-01','Huarancante Stadium','T',70419,59320
+812,'2013-10-18','Babakan Stadium','L',31137,365317
+813,'2012-03-24','Sembon Stadium','L',28143,403301
+814,'2014-02-15','Bollnäs Stadium','T',5303,852433
+815,'2014-02-09','Jastrowie Stadium','W',93554,709916
+816,'2017-09-20','Hebi Stadium','W',22445,108108
+817,'2012-06-17','Bruzual Stadium','T',10632,136852
+818,'2014-02-14','Postřekov Stadium','L',58956,352024
+819,'2014-11-14','Linköping Stadium','L',47291,489292
+820,'2018-06-23','Cibungur Stadium','L',81787,864501
+821,'2014-08-18','Puerto Tejada Stadium','W',64274,485019
+822,'2013-01-26','Changning Stadium','T',26611,548480
+823,'2013-09-14','Kramsk Stadium','W',91984,355737
+824,'2013-12-27','Tall Rif‘at Stadium','L',64943,323468
+825,'2016-11-19','Virolahti Stadium','T',34557,483395
+826,'2015-07-05','Xaysetha Stadium','W',23562,822672
+827,'2012-05-24','Shicheng Stadium','T',1929,614121
+828,'2018-03-05','Tanbuqiao Stadium','L',98905,620550
+829,'2011-04-15','New Haven Stadium','T',98467,883069
+830,'2015-11-01','Kibre Mengist Stadium','W',58562,177520
+831,'2017-05-22','Várzea Paulista Stadium','W',39365,12485
+832,'2012-04-21','Tayasan Stadium','T',49491,33611
+833,'2010-01-24','Baquero Norte Stadium','T',21561,326268
+834,'2017-12-01','Wabana Stadium','L',69288,247525
+835,'2016-08-16','Khlong Luang Stadium','L',43707,482700
+836,'2011-03-02','Petrikov Stadium','L',18045,709855
+837,'2017-03-01','Balangiga Stadium','L',67063,360957
+838,'2011-04-30','Nadi Stadium','W',67497,813057
+839,'2018-09-22','Kimito Stadium','W',85133,763783
+840,'2017-12-11','Seremban Stadium','L',80532,256200
+841,'2016-04-21','Le Mans Stadium','T',91338,474216
+842,'2013-06-18','Fukuchiyama Stadium','W',99692,195929
+843,'2016-11-13','Vilya Stadium','T',71418,491435
+844,'2014-05-31','Hudson Stadium','T',15968,732346
+845,'2017-02-08','Idfu Stadium','T',18298,153445
+846,'2018-01-23','Mikró Monastíri Stadium','W',12996,273565
+847,'2018-10-18','Al Masallamiyya Stadium','L',63615,316206
+848,'2019-01-16','Springfield Stadium','T',69762,703921
+849,'2011-09-24','Krajan Bejagung Stadium','T',99576,309168
+850,'2015-09-19','Gongfang Stadium','T',58706,806400
+851,'2016-04-02','Ngujuran Stadium','L',86955,197003
+852,'2014-08-24','Lille Stadium','L',75784,41758
+853,'2010-04-28','Strelitsa Stadium','L',24731,862514
+854,'2010-05-04','Darovskoy Stadium','L',38977,423324
+855,'2017-09-06','Divinópolis Stadium','W',58799,603924
+856,'2015-04-26','Gaza Stadium','T',26288,778369
+857,'2012-03-02','Porecatu Stadium','L',58709,622849
+858,'2012-07-27','Rouen Stadium','W',42767,292794
+859,'2010-09-29','Irasan Stadium','L',9060,312150
+860,'2017-06-01','Józefów Stadium','T',20171,561911
+861,'2010-05-19','Sosnovka Stadium','W',25025,177552
+862,'2013-08-30','Xiaohe Stadium','L',85248,132944
+863,'2016-10-29','Potelych Stadium','L',16346,87515
+864,'2016-10-31','Surup Stadium','T',49502,891063
+865,'2013-12-18','Teluksantong Stadium','L',34685,805903
+866,'2017-12-16','Orissaare Stadium','T',77185,734879
+867,'2014-02-12','Plomárion Stadium','W',94520,204291
+868,'2016-12-09','Gīdolē Stadium','T',40507,134173
+869,'2011-06-08','Cuogang Stadium','L',25028,89296
+870,'2010-07-09','Koungheul Stadium','T',94159,752609
+871,'2016-11-11','Mobile Stadium','W',39522,438771
+872,'2016-05-29','Skuratovskiy Stadium','T',65365,174420
+873,'2010-04-12','Zasip Stadium','T',42208,372719
+874,'2016-06-16','Mouzourás Stadium','T',38101,102505
+875,'2017-01-13','Liuduzhai Stadium','W',60796,788727
+876,'2015-08-12','Ardazubre Stadium','L',95638,617263
+877,'2011-01-11','Koungheul Stadium','W',32497,249971
+878,'2018-02-19','Morteros Stadium','L',6584,806137
+879,'2013-04-08','Santa Bárbara Stadium','T',78331,480776
+880,'2015-12-23','São Miguel do Iguaçu Stadium','W',58735,894523
+881,'2010-04-19','Íquira Stadium','L',2500,891870
+882,'2012-11-06','Uwajima Stadium','T',93196,174789
+883,'2015-05-23','Igede-Ekiti Stadium','W',54402,153745
+884,'2014-04-19','Mariel Stadium','L',29276,440348
+885,'2012-04-16','Glamoč Stadium','T',15538,806028
+886,'2013-06-16','Cipadung Stadium','W',50013,86321
+887,'2015-06-05','Barr Stadium','T',65516,643258
+888,'2016-04-08','Utmānzai Stadium','T',99893,396480
+889,'2015-02-11','Stockholm Stadium','W',59798,282185
+890,'2018-08-12','Myronivka Stadium','W',24064,641962
+891,'2016-08-08','Xiali Stadium','L',60329,841605
+892,'2013-08-11','Tugela Ferry Stadium','W',64360,77871
+893,'2017-03-15','Yingchengzi Stadium','L',83258,40929
+894,'2010-03-02','Kula Stadium','W',63917,244667
+895,'2014-08-06','Benavila Stadium','L',70198,191433
+896,'2016-12-30','Trieste Stadium','W',97311,392989
+897,'2018-10-05','Zala Stadium','T',14859,18255
+898,'2016-08-27','Playas Stadium','T',14325,216303
+899,'2012-08-11','Castainço Stadium','W',86999,776073
+900,'2015-07-22','Lewisporte Stadium','T',93204,345698
+901,'2015-11-04','San Eugenio Stadium','T',88132,580590
+902,'2017-05-26','Cusco Stadium','T',78296,657882
+903,'2013-05-22','Cartago Stadium','T',12540,857315
+904,'2012-06-22','Ponta do Sol Stadium','T',24390,374118
+905,'2012-09-25','Gunungangka Stadium','T',21870,786823
+906,'2015-09-17','Useldange Stadium','W',99880,815319
+907,'2017-09-30','Pokrovskoye-Streshnëvo Stadium','L',19900,853498
+908,'2016-10-01','Pavlovsk Stadium','L',23043,754662
+909,'2015-05-02','Oakland Stadium','L',64652,435481
+910,'2012-06-19','Balibago Stadium','W',27802,369563
+911,'2015-01-06','Skövde Stadium','W',32933,51241
+912,'2010-06-15','Bago Stadium','L',37644,616885
+913,'2014-02-20','Inyati Stadium','L',70730,518472
+914,'2012-08-17','Kibre Mengist Stadium','W',32736,770277
+915,'2013-10-24','Zbraslav Stadium','W',73825,491405
+916,'2017-02-12','João Câmara Stadium','L',59600,761831
+917,'2018-08-03','Polepy Stadium','L',6418,38980
+918,'2014-09-18','Vendas de Galizes Stadium','W',89755,672357
+919,'2010-05-21','Orzu Stadium','W',6649,64135
+920,'2019-01-13','Lurut Stadium','T',6422,280235
+921,'2013-05-22','Ambarakaraka Stadium','T',75983,715372
+922,'2013-08-24','Changnyeong Stadium','L',47374,504623
+923,'2015-03-15','Trieste Stadium','T',57034,752358
+924,'2012-05-13','Yelyzavethradka Stadium','W',79547,380799
+925,'2012-12-17','Sūrīān Stadium','W',21864,680084
+926,'2010-10-16','Nifuboko Stadium','L',59222,672022
+927,'2018-11-11','Sinfra Stadium','W',26005,32628
+928,'2015-04-30','San Juan Pueblo Stadium','T',65501,638000
+929,'2015-05-20','São Miguel Stadium','L',79552,223240
+930,'2017-11-14','Digne-les-Bains Stadium','W',94961,770726
+931,'2018-04-22','Conceição do Jacuípe Stadium','T',94539,729008
+932,'2013-05-10','Wrząsowice Stadium','T',36537,747931
+933,'2016-02-19','Nkandla Stadium','L',28511,399909
+934,'2014-03-09','Kiiminki Stadium','T',85096,667259
+935,'2012-08-02','Volkhovskiy Stadium','W',29133,20721
+936,'2013-08-19','Tiền Hải Stadium','L',51774,618433
+937,'2013-04-12','Ujsoły Stadium','W',92491,566928
+938,'2014-03-25','Cibeureum Stadium','W',73749,157245
+939,'2010-07-13','San Pedro Stadium','T',40759,222537
+940,'2014-06-11','San Miguel Stadium','W',43940,571319
+941,'2013-02-28','Ussel Stadium','L',24339,125823
+942,'2013-10-08','Longxing Stadium','T',50663,213994
+943,'2013-04-13','Wangshi Stadium','W',85622,162049
+944,'2014-06-18','Yanggu Stadium','L',40998,706051
+945,'2016-05-04','Dahay Stadium','L',46710,445389
+946,'2015-06-26','Sinmak Stadium','L',31295,877002
+947,'2017-09-25','Woippy Stadium','T',9481,348112
+948,'2011-07-22','Sebba Stadium','T',15076,543874
+949,'2014-05-29','Aizhai Stadium','L',40997,511295
+950,'2017-05-03','Lyon Stadium','T',94461,326456
+951,'2018-08-16','Araras Stadium','L',71114,98562
+952,'2018-06-09','Heshi Stadium','W',75850,597041
+953,'2010-12-07','Mykolayiv Stadium','T',65921,853616
+954,'2016-10-30','Mamuša Stadium','L',84611,643422
+955,'2017-10-15','Panglanjan Stadium','W',79439,111110
+956,'2014-11-25','Kamubheka Stadium','W',23732,871353
+957,'2010-06-04','Kunčice pod Ondřejníkem Stadium','L',79886,895661
+958,'2014-06-13','Krasnoznamensk Stadium','W',62718,820406
+959,'2018-02-03','Zhavoronki Stadium','W',18774,319930
+960,'2019-01-01','Zográfos Stadium','T',26979,586110
+961,'2014-07-12','Óbidos Stadium','L',22365,420202
+962,'2017-05-13','Jieshan Stadium','W',81945,186844
+963,'2014-09-29','Kaduela Stadium','W',80575,892425
+964,'2011-10-05','Changyŏn Stadium','W',14093,640047
+965,'2013-05-05','Katabu Stadium','W',20987,151000
+966,'2014-11-14','Yegorlykskaya Stadium','T',46979,890309
+967,'2017-08-23','Kemiri Daya Stadium','W',35677,100565
+968,'2013-07-02','Putinci Stadium','T',24103,526261
+969,'2010-10-31','Aţ Ţafīlah Stadium','L',9894,435541
+970,'2010-02-21','Singaraja Stadium','T',58953,12187
+971,'2012-04-28','Almaty Stadium','T',49582,841324
+972,'2011-05-16','Natitingou Stadium','W',70271,72617
+973,'2017-11-15','Sokołów Podlaski Stadium','T',3260,491282
+974,'2017-07-16','Picassinos Stadium','W',24430,27408
+975,'2014-06-11','Mahe Stadium','W',15927,408797
+976,'2018-06-03','Utan Stadium','W',14567,72086
+977,'2015-07-09','Sambogunung Stadium','W',26968,197432
+978,'2015-06-12','Burayevo Stadium','W',36244,713183
+979,'2013-08-18','Vuokatti Stadium','L',43275,370302
+980,'2015-10-11','Otjimbingwe Stadium','L',62629,216317
+981,'2018-02-09','Taoyuan Stadium','L',35222,804023
+982,'2010-02-26','Vista Hermosa Stadium','T',85876,162849
+983,'2015-04-26','Askim Stadium','L',21296,429470
+984,'2016-06-15','Shuhe Stadium','T',59029,898325
+985,'2018-01-14','Vetlanda Stadium','T',88845,638307
+986,'2010-06-16','Drahovo Stadium','T',23060,289201
+987,'2012-05-18','Pinar del Río Stadium','L',57528,36335
+988,'2016-01-14','Tubalan Stadium','L',14411,842446
+989,'2018-04-11','Maia Stadium','L',88459,109295
+990,'2011-10-24','Stockholm Stadium','T',18042,457783
+991,'2011-06-20','Köping Stadium','T',23673,434884
+992,'2014-10-20','Konde Stadium','L',45302,386943
+993,'2017-05-13','Saqqez Stadium','L',11235,712746
+994,'2018-03-12','Pali Stadium','W',53338,520737
+995,'2014-08-20','Humniska Stadium','L',91122,549812
+996,'2016-10-05','Zagora Stadium','L',70245,347774
+997,'2015-06-19','Ponte Nova Stadium','W',86665,596275
+998,'2011-05-15','Gawanan Stadium','L',62210,821735
+999,'2012-07-02','Zastron Stadium','W',14985,870376
+1000,'2011-06-08','Puente Alto Stadium','L',76717,586029
